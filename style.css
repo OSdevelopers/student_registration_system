@@ -1,0 +1,19 @@
+*{
+    background: lightcoral;
+    border-radius: border-box;
+}
+.home{
+    display: flex;
+    justify-content: center;
+}
+.intro{
+    margin-top: 15%;
+}
+.buttons{
+    margin-top: 3%;
+}
+a{
+    color: white;
+    text-decoration: none;
+    padding-left: 1%;
+}
