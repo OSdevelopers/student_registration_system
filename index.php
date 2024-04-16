@@ -11,8 +11,8 @@
         Welcome! Here you'll be able to register new students.
     </div>
     <div class="home buttons">
-        <a href="">Login</a>
-        <a href="">Register</a>
+        <a href="login.php">Login</a>
+        <a href="register.php">Register</a>
     </div>
 </body>
 </html>

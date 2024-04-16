@@ -17,3 +17,16 @@ a{
     text-decoration: none;
     padding-left: 1%;
 }
+fieldset{
+    width: 30%;
+    display: flex;
+}
+input{
+    border-radius: 20%;
+}
+.inputs{
+    padding-top: 5%;
+}
+.button{
+    padding-top: 5%;
+}
